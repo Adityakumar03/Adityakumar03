@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Artificial intelligence and ML algorithms**
 
+- 📫 How to reach me **adityashandilya201@gmail.com**
+
 - ⚡ Fun fact **Eat(); sleep(); code(); repeat();**
 
 <h3 align="left">Connect with me:</h3>
