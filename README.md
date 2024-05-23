@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial intelligence and ML algorithms**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 📫 How to reach me **adityashandilya201@gmail.com**
 
