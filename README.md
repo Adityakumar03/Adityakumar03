@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full stack Developer from Kolkata , India
+I am Full stack Developer from Bengaluru , India
 
 
 ## 🌐 Socials:
